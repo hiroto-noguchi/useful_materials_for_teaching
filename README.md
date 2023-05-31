@@ -1,2 +1,3 @@
 # useful_materials_for_teaching
-TBA
+## docx2pdf.ipynb
+docxファイルをpdfに変換するスクリプト
